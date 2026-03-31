@@ -3,8 +3,8 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
 import path from 'path';
 
-// Serve assets relative to this repo when deployed to GitHub Pages
-const repoBase = '/vocabulary-hub/';
+// Serve assets from root when deployed to Azure
+const repoBase = '/';
 
 export default defineConfig({
   base: repoBase,
