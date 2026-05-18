@@ -25,7 +25,7 @@ This application is automatically deployed via GitHub Actions on every push to t
 ### Manual Deployment Trigger
 
 You can manually trigger a deployment from GitHub:
-1. Go to https://github.com/TomAJBergmans/vocabulary-hub/actions
+1. Go to https://github.com/DiSHACLed/demonstrator/actions
 2. Select "Build and Deploy to Azure Storage" workflow
 3. Click "Run workflow"
 
@@ -96,8 +96,7 @@ The following secrets are configured in the GitHub repository:
 
 ## 📖 Documentation
 
-Full deployment documentation is available at:
-`C:\Users\bergma57\DiSHACLed\VOCABULARY_HUB_DEPLOYMENT.md`
+See the repository root for full deployment documentation.
 
 ## ⚙️ Maintenance
 
@@ -133,4 +132,3 @@ MIT License (inherited from original repository)
 
 - Original vocabulary-hub: IDLabResearch
 - Azure deployment: DiSHACLed project
-- Deployed by: Tom Bergmans (bergma57@imec.be)
